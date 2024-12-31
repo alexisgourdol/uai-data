@@ -1,6 +1,16 @@
+# Why uai data?
+Artificial Intelligence, though Large Language Models (LLMs) is a **transformative technology** like electricity and the internet. We're still on the early stages of this revolution, but the rate of inovation is staggering.
+
+**Every organization will soon have AI Agents performing tasks that were done by humans before**. Even though there are challenges and significant data engineering work for this to materialize in our world, this is likely to happen quite fast in 2025 and 2026.
+
+**uai data**'s mission is to create Useful Artificial Intelligence solutions connected to organization's data. Our view is that :
+1. business needs have to be clearly identified, e.g where tasks are repetitive and boring, where hiring is challenging or where LLMs can empower employees to dedicate more time on more high-value missions
+2. technical requirements have to be clearly identified as well, e.g. where does the relevant data lives, how is the infrastructure set up ...
+3. then and only then, a simple end-to-end project needs to happen to implement an AI agent
+
 # What Are AI Agents and Their Impact on Businesses?
 
-AI agents are software entities powered by artificial intelligence that can autonomously perform tasks, make decisions, and interact with systems or humans to achieve specific goals. They are designed to analyze data, learn from patterns, and execute actions with minimal human intervention. By combining advanced algorithms and machine learning, AI agents can adapt to changing environments and optimize their performance over time.
+AI agents are software entities powered by artificial intelligence that can autonomously perform tasks, make decisions, and interact with systems or humans to achieve specific goals. They are designed to analyze data, learn from patterns, and execute actions with minimal human intervention. AI agents can adapt to changing environments and optimize their performance over time with the proper human supervision.
 
 ## Enhancing Processes Across Companies
 
