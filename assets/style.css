@@ -1,0 +1,13 @@
+.logo {
+    max-width: 150px;
+    margin: 20px auto;
+    display: block;
+}
+
+body {
+    background-image: url('../uai-data-linkedin-background.png');
+    background-size: cover;
+    background-position: center;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
